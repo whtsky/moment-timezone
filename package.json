@@ -1,5 +1,5 @@
 {
-	"name": "moment-timezone",
+	"name": "@whtsky/moment-timezone",
 	"version": "0.5.13",
 	"description": "Parse and display moments in any timezone.",
 	"homepage": "http://momentjs.com/timezone/",

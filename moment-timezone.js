@@ -16,6 +16,7 @@
 		factory(root.moment);                        // Browser
 	}
 }(this, function (moment) {
+	moment = moment.default || moment
 	"use strict";
 
 	// Do not load moment-timezone a second time.
